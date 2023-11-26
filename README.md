@@ -1,4 +1,4 @@
-[![MasterHead](https://media.istockphoto.com/id/1448156227/photo/big-data-technology-and-data-science-data-scientist-querying-analysing-and-visualizing.jpg?s=612x612&w=0&k=20&c=KHewyNGrtaZFThUNziLnFApgpNmHRrZSTXrWUPnX4yA=)]
+![MasterHead](https://www.lynchburg.edu/wp-content/uploads/statistics-and-data-science/banner-statistics-and-data-science-1.jpg)
 <h1 align="center">Hi 👋, I'm Alavia Batool</h1>
 <h3 align="center">Data Scientist in Health Informatics</h3>
 <img align="right" alt="Coding" width="400" src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/12/ai-gif.gif">
