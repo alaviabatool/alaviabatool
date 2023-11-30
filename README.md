@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **abatool.msbi23sines@student.nust.edu.pk**
 
-- ⚡ Fun fact **I can make a machine learning hypothesis out of every problem.**
+- ⚡ Fun fact **I can make a machine learning hypothesis out of every problem haha.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
